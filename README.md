@@ -9,7 +9,7 @@
 
 ## GitHub Stats 📊
 
-[![Krishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=andychen-web&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&include_all_commits=true)](https://github.com/kkumar-gcc) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkumar-gcc&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/kkumar-gcc)
+[![Krishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=andychen-web&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&include_all_commits=true)](https://github.com/kkumar-gcc) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andychen-web&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/kkumar-gcc)
 <br>
 
 ## Tech & Tools Preference 💻
